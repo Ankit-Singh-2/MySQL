@@ -2,7 +2,7 @@
 
 MySQL Analytical Projects (Data Manipulation, SQL Programming, Data Cleaning)
 
-These repos uses MySQL database in performing data analysis,aiming to discover diverse insights.
+This repo uses MySQL database in performing data analysis,aiming to discover diverse insights.
 Content related to Database Management Systems and Structured Query Language
 Contains Query questions with corresponding SQL queries.
 
